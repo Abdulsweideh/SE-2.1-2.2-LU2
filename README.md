@@ -2,6 +2,13 @@
 
 This repository contains the code, notebooks, and datasets for LU2 of the module "ATIx Informatica 2.1/2.2 Full-Stack Web Applications with AI".
 
+## Notebooks
+
+- [01 - Data Analysis](notebooks/01_DataAnalysis.ipynb): Explore restaurant bills and tips using the Tips dataset.
+- [02 - Dimensionality Reduction Demo](notebooks/02_Demo%20PCA,T-SNE,%20UMAP.ipynb): Visualize the Iris dataset in 2D with PCA, t-SNE, and UMAP.
+- [03 - Dimensionality Reduction Assignment](notebooks/03_Opdracht_Dimensionality_Reduction.ipynb): Apply PCA, t-SNE, and UMAP to a dataset of your choice and interpret the results.
+- [04 - Model Training and Evaluation](notebooks/04_PT_and_model_evaluation.ipynb): Predict student grades with linear regression and cluster Iris data with K-means, including evaluation metrics.
+
 ## Project context
 
 This assignment focuses on developing a working prototype in pairs that demonstrates how AI and data analysis can add value to solving real-world problems.
