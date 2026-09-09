@@ -8,6 +8,8 @@ This repository contains the code, notebooks, and datasets for LU2 of the module
 - [02 - Dimensionality Reduction Demo](notebooks/02_Demo%20PCA,T-SNE,%20UMAP.ipynb): Visualize the Iris dataset in 2D with PCA, t-SNE, and UMAP.
 - [03 - Dimensionality Reduction Assignment](notebooks/03_Opdracht_Dimensionality_Reduction.ipynb): Apply PCA, t-SNE, and UMAP to a dataset of your choice and interpret the results.
 - [04 - Model Training and Evaluation](notebooks/04_PT_and_model_evaluation.ipynb): Predict student grades with linear regression and cluster Iris data with K-means, including evaluation metrics.
+- [05 - Natural Language Processing](notebooks/05_NLP.ipynb): Explore text cleaning, tokenization, stopword removal, lemmatization, stemming, and Bag of Words representations.
+- [06 - Recommender Systems](notebooks/06_Recommender%20systems.ipynb): Compare book metadata using Bag of Words and cosine similarity, and retrieve books from a title query.
 
 ## Project context
 
